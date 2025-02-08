@@ -146,7 +146,7 @@
             }
             container.scrollTop = offset - container.clientHeight / 2 + target.clientHeight / 2;
             target.style.transition = 'background-color 0.5s';
-            target.style.backgroundColor = 'blue';
+            target.style.backgroundColor = 'red';
             setTimeout(() => {
                 target.style.backgroundColor = '';
             }, 1000);
