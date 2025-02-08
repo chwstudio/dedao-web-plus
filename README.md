@@ -33,6 +33,7 @@
 ## 开发者
 
 - [chwstudio](https://github.com/chwstudio)
+- 联系我们：chwstudio@qifalab.com
 
 ## 许可证
 
