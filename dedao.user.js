@@ -131,7 +131,7 @@
 
     // “定位到progress”按钮
     const btnProgress = document.createElement('button');
-    btnProgress.textContent = '定位到progress';
+    btnProgress.textContent = '定位到上次学习';
     // 定义自动滚动寻找 progress 的函数
     function autoScrollToProgress(count) {
         const container = document.querySelector('.ps.ps--active-y');
